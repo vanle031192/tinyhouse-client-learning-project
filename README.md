@@ -173,4 +173,4 @@ useLayoutEffect & Window Scroll
 React Router Hooks
 Disconnecting from Stripe & Revoking Access
 Additional Listing DatePicker Changes
-Part Two Conclusion
+Part Two Conclusion.
